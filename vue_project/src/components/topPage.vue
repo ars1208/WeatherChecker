@@ -1,9 +1,20 @@
 <template>
   <div>
     <div class="top">
+      <addcard></addcard>
     </div>
   </div>
 </template>
+
+<script>
+import addcard from './addCard'
+
+export default {
+  components: {
+    addcard
+  }
+}
+</script>
 
 <style>
   .top {
