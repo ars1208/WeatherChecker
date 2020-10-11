@@ -7,7 +7,7 @@
 
 <style>
   .top {
-    background-image: linear-gradient(180deg, #9fa0a1, #577080);
+    background-image: linear-gradient(180deg, #cdcecf, #577080);
     height: 950px;
   }
 </style>
